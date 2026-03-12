@@ -150,17 +150,16 @@ sudo -E ./audio_vis
 - Real-time visualization
 - SDL2 graphics rendering
 
----
+------------------------------------------------------------
+Author
+------------------------------------------------------------
 
-# License
+Vlad-Stefan Ciolacu<br>
+GitHub: https://github.com/vladciolacu17
 
-This project is licensed under the MIT License.
+------------------------------------------------------------
+License
+------------------------------------------------------------
 
-See `LICENSE` for details.
-
----
-
-# Author
-
-**Vlad-Ștefan Ciolacu**  
+MIT License
 
